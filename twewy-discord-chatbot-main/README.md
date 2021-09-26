@@ -21,6 +21,6 @@ You can also directly chat with the model hosted on Hugging Face's Model Hub. **
 ## Structure of this Project
 
 - `model_train_upload_workflow.ipyb`: Notebook to be run in Google Colab to train and upload the model to Hugging Face's Model Hub
-- `chattybot.js`: Script to be imported into a Repl.it [chattybot.js project](https://replit.com/@ThushalCH/ChattyBotjs#index.js)
+- `discord_bot.js`: Script to be imported into a Repl.it [chattybot.js project](https://replit.com/@ThushalCH/ChattyBotjs#index.js)
 
 
