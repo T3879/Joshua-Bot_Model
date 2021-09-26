@@ -1,4 +1,4 @@
-# Build a Discord AI Chatbot that Speaks like Your Favorite Character!
+# Build a  AI Chatbot that Speaks like Your Favorite Character!
 
 <div align="center">
   <img src="https://github.com/RuolinZheng08/twewy-discord-chatbot/blob/main/gif-demo/icon.png" width=200>
