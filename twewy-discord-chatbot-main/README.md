@@ -14,7 +14,7 @@ Here is a demo of the Discord bot in action.
 
 <img src="https://github.com/RuolinZheng08/twewy-discord-chatbot/blob/main/gif-demo/discord.gif" width=500><br>
 
-You can also directly chat with the model hosted on [Hugging Face's Model Hub](https://huggingface.co/r3cdhummingbird/DialoGPT-medium-joshua).
+You can also directly chat with the model hosted on Hugging Face's Model Hub. **[Click Here](https://huggingface.co/r3cdhummingbird/DialoGPT-medium-joshua)** to chat with the bot
 
 <img src="https://github.com/RuolinZheng08/twewy-discord-chatbot/blob/main/gif-demo/huggingface.gif" width=400><br>
 
