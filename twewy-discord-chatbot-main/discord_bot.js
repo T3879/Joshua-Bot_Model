@@ -6,7 +6,7 @@ const fetch = require('node-fetch');
 // initialize client
 const client = new Discord.Client();
 // my model URL
-API_URL = 'https://api-inference.huggingface.co/models/r3dhummingbird/DialoGPT-medium-joshua';
+API_URL = 'https://api-inference.huggingface.co/models/r3cdhummingbird/DialoGPT-medium-joshua';
 
 // log out some info
 client.on('ready', () => {
